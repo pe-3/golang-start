@@ -52,8 +52,8 @@
 
 ## 学习资源
 * [ ]  Go 标准文档：https://golang.org/doc/
-* [ ] 《Go语言圣经》（免费在线版本）：http://gopl.io/
-* [ ] 《Go Web 编程》：https://github.com/astaxie/build-web-application-with-golang
+* [ ]  Go语言圣经（免费在线版本）：http://gopl.io/
+* [ ]  Go Web 编程：https://github.com/astaxie/build-web-application-with-golang
 * [ ]  Go by Example：https://gobyexample.com/
 * [ ]  JustForFunc: Programming in Go（YouTube视频系列）：https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw
 * [ ]  Go 语言开发社区：如 GolangBridge, Reddit, StackOverflow等
